@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+	
+		<Tarja>
+			<Id>1</Id>
+			<fullname>Tarja_Soile_Susanna_Turunen</fullname>
+			<position>Lead Singer (leave)</position>
+			<nationality>Finland</nationality>
+			<birthplace>Finland_basety</birthplace>
+			<profession>Singer</profession>
+			<image>tarja.jpg</image>
+		</Tarja>
+		<empuu>
+			<id>2</id>
+			<fullname>EmppuVuorinen</fullname>
+			<position>guitarist</position>
+			<nationality>Finland</nationality>
+			<birthplace>Kerava</birthplace>
+			<profession>Actors, original music</profession>
+			<image>empuu.jpg</image>
+		</empuu>
+                <jukka>
+			<id>3</id>
+			<fullname>Jukka"Julius"Nevalainen</fullname>
+			<position>drummer</position>
+			<nationality>Finland</nationality>
+			<birthplace>Joensuu,Finland</birthplace>
+			<profession>musician</profession>
+			<image>jukka.png</image>
+		</jukka>
+                <AnetteOlsson>
+			<id>4</id>
+			<fullname>Anette Ingegerd Olsson</fullname>
+			<position>Second vocalist(leave)</position>
+			<nationality>Sweden</nationality>
+			<birthplace>Katerina Holm</birthplace>
+			<profession>Singer</profession>
+			<image>AnetteOlsson.png</image>
+		</AnetteOlsson>
+                
+                <Marco>
+			<id>5</id>
+			<fullname>Marco Tapani Hietala</fullname>
+			<position>bass player</position>
+			<nationality>Finland</nationality>
+			<birthplace>Kerava</birthplace>
+			<profession>bass player</profession>
+			<image>Marco.jpg</image>
+		</Marco>
+
+                <Tuomas>
+			<id>6</id>
+			<fullname>Tuomas Holopainen</fullname>
+			<position>keyboardist</position>
+			<nationality>Finland</nationality>
+			<birthplace>FinlandKitee</birthplace>
+			<profession>Composer, keyboardist, producer</profession>
+			<image>Tuomas.jpg</image>
+		</Tuomas>
+	
+</root>
